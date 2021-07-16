@@ -1,0 +1,122 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+ul{
+    display:flex;
+    /* text-decoration:none; */
+    margin-top : 0px;
+    margin-left: 190px;
+    
+}
+li{
+    list-style: none;
+    margin-left:100px;
+    /* color: white; */
+    margin-top: 14px;
+}
+a{
+    text-decoration: none;
+    color:white;
+    font-size: 25px;
+}
+nav{
+    background-color: rgb(206, 165, 90);
+    height: 65px;
+    width:100%;
+    /* margin-top: -8px; */
+    /* margin-left: -8px; */
+}
+.mid1{
+    display: flex;
+    /* border: 5px solid red; */
+    background-color: rgb(231, 201, 162);
+ 
+}
+#write{
+    height: 500px;
+    width:700px;
+}
+#wrt{
+    padding-left: 150px;
+    padding-top: 200px;
+    font-style: italic;
+    color: rgb(83, 34, 81);
+    font-size: 35px;
+}
+#wrt2{
+    margin-left:200px ;
+    color: rgb(83, 34, 81);
+    font-size: 30px;
+    margin-top: -20px;
+    font-style: italic;
+}
+.mid2{
+    background-color:  rgb(231, 201, 162);
+    height: 300px;
+}
+#img1{
+    height:235px;
+    width: 235px;
+    border: 2px solid white;
+    border-radius: 5px;
+    background: url('https://i.pinimg.com/236x/fd/ab/93/fdab93e7572595c71fb430bacd8bc200.jpg') ;
+    margin-right: 0px;
+    /* background-color: burlywood; */
+    background-repeat: no-repeat;
+    margin-left: 50px;
+    margin-top: 100px;
+    
+}
+#img2{
+    height:225px;
+    width: 235px;
+    margin-top: 150px;
+    border: 2px solid white;
+    border-radius: 5px;
+    margin-left: 10px;
+    background: url('https://i.pinimg.com/236x/4f/f7/4c/4ff74c4155193d90bce2c0ee068b21bc.jpg') ;
+    /* background-color: cornsilk; */
+    background-repeat: no-repeat;
+}
+
+#img3{
+    height:235px;
+    width: 235px;
+    margin-left:750px ;
+    margin-top: -150px;
+    border: 2px solid white;
+    border-radius: 5px;
+    background-image: url('https://i.pinimg.com/236x/01/d5/98/01d59886949e731cee9cd100539f4b83.jpg');
+    background-repeat: no-repeat;
+}
+#img4{
+    height: 235px;
+    width: 235px;
+    border: 2px solid white;
+    border-radius: 5px;
+    background-image: url('https://i.pinimg.com/564x/8a/fd/91/8afd914595d333ca131ed7c551f1b97c.jpg');
+    margin-left: 995px;
+    margin-top: -200px ;
+    background-repeat: no-repeat;
+    padding-left: 0px;
+}
+.midportion{
+    height: 300px;
+    width: 100%;
+    background-color: violet;
+}
+
+
+
+
+
+
+
+#cnt{
+    background-color: seashell;
+}
+h2{
+    margin:0px;
+}
